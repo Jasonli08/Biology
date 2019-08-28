@@ -4,7 +4,7 @@
 
 |Birth Date|Description|DDL|
 |-|-|-|
-|19-09-xx|xx|Sat.|
+|19-07-01|Summer Assignment|Sep.2|
 
 # Bio-Vocab
 [Methanosarcina barkeri](https://microbewiki.kenyon.edu/index.php/Methanosarcina_barkeri)
