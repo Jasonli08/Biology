@@ -10,11 +10,10 @@
 [Methanosarcina barkeri](https://microbewiki.kenyon.edu/index.php/Methanosarcina_barkeri)
 
 ## Class notes
+
 |Notes|Pictures|
--|-
-[Sep.1]|[check]
-[Sep.2]|[check]
-[Sep.3]|[check]
+|--|--|
+| [Sep.1] | [Check] |
 
 ## Test Preparation & Review
 
