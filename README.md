@@ -1,5 +1,7 @@
-``Welcome to the Biology class! In this website you will be able to enjoy your study-time by getting the newest information, learning biology terms, reviewing the notes, and preparing for the test. ``
 ![Image](https://github.com/Jasonli08/Biology/raw/master/th.jpg)
+-
+``Welcome to the Biology class! In this website you will be able to enjoy your study-time by getting the newest information, learning biology terms, reviewing the notes, and preparing for the test. ``
+
 # Homework
 
 |Birth Date|Description|DDL|
