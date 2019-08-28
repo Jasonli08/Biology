@@ -22,7 +22,7 @@
 
 |Date|Test Range|Lasting Time|
 |-|-|-|
-|19-09-xx|xx|xxmin|
+|19-09-xx|xx|xx min|
 
 ### Materials for better Review
 * xxx
