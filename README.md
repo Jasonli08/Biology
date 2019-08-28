@@ -19,13 +19,10 @@
 ## Test Preparation & Review
 
 ### Test & Quiz Schedule
-|Date|Test Range|LastingTtime|
-|-|-|-|
-|19-09-xx|xxx|xx min|
 
-|Birth Date|Description|DDL|
+|Date|Test Range|Lasting Time|
 |-|-|-|
-|19-09-xx|xx|Sat.|
+|19-09-xx|xx|xxmin|
 
 ### Materials for better Review
 * xxx
