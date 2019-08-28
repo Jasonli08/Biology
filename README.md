@@ -19,9 +19,9 @@ Notes|Pictures
 ## Test Preparation & Review
 
 ### Test & Quiz Schedule
-Date|Test Range|Lasting time
--|-|-
-19-09-xx|xxx|xx min
+|Date|Test Range|Lasting time|
+|-|-|-|
+|19-09-xx|xxx|xx min|
 
 ### Materials for better Review
 * xxx
